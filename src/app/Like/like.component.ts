@@ -20,5 +20,4 @@ export class LikeComponent implements OnInit{
       this.likeDisabled = true;
     }
   }
-
 }
