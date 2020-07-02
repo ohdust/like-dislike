@@ -1,6 +1,6 @@
 # My Solution
 
-This application uses Angular Cli v10.
+This application uses Angular.
 Requires Node.js and npm
 
 To run the application: 
